@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/doit_ios/!svn/ver/1/Experimental
+END
+CFilteringJSONSerializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/doit_ios/!svn/ver/1/Experimental/CFilteringJSONSerializer.h
+END
+CJSONDeserializer_BlocksExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/doit_ios/!svn/ver/1/Experimental/CJSONDeserializer_BlocksExtensions.h
+END
+CFilteringJSONSerializer.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/doit_ios/!svn/ver/1/Experimental/CFilteringJSONSerializer.m
+END
+CJSONDeserializer_BlocksExtensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/doit_ios/!svn/ver/1/Experimental/CJSONDeserializer_BlocksExtensions.m
+END
+CJSONSerializedData.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/doit_ios/!svn/ver/1/Experimental/CJSONSerializedData.h
+END
+CJSONSerializedData.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/doit_ios/!svn/ver/1/Experimental/CJSONSerializedData.m
+END
